@@ -1,0 +1,13 @@
+{
+  "env": {
+    "jest": true
+  },
+  "globals": {
+  },
+  "rules": {
+    "new-cap": "off",
+    "class-methods-use-this": "off",
+    "no-shadow": "off",
+    "import/no-webpack-loader-syntax": "off"
+  }
+}
